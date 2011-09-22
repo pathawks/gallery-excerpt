@@ -16,7 +16,7 @@ This excerpt should appear in your archive pages, and perhaps elsewhere, dependi
 == Installation ==
 
 1. Upload 'Gallery-Excerpt' to the '/wp-content/plugins/' directory
-2. Activate **Gallery Excerptl** through the 'Plugins' menu in WordPress
+2. Activate **Gallery Excerpt** through the 'Plugins' menu in WordPress
 
 == Frequently Asked Questions ==
 
