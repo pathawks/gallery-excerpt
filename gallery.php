@@ -42,4 +42,11 @@ function dirtysuds_excerpt_gallery( $excerpt ) {
 	}
 }
 
+function dirtysuds_excerpt_gallery_rate($links,$file) {
+		if (plugin_basename(__FILE__) == $file) {
+			$links[] = '<a href="http://wordpress.org/extend/plugins/gallery-excerpt/">Rate this plugin</a>';
+		}
+	return $links;
+}
+add_filter('plugin_row_meta', 'dirtysuds_excerpt_gallery_rate',10,2);
 add_filter('get_the_excerpt', 'dirtysuds_excerpt_gallery');
