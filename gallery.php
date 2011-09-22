@@ -2,7 +2,7 @@
 /*
 Plugin Name: Gallery Excerpt
 Plugin URI: http://dirtysuds.com
-Description: Changes excerpt for 'Gallery' posts to a row of thumbnails
+Description: Replace excerpt for gallery with a row of thumbnails from post
 Author: Dirty Suds
 Version: 1.00
 Author URI: http://dirtysuds.com

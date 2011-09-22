@@ -1,6 +1,6 @@
 === Gallery Excerpt ===
 
-Contributors: PatHawks,DirtySuds
+Contributors: dirtysuds,pathawks
 Tags: plugins, wordpress, post, gallery, excerpt, images
 Requires at least: 3.1
 Tested up to: 3.2
