@@ -1,7 +1,7 @@
 === Gallery Excerpt ===
 
 Contributors: dirtysuds,pathawks
-Tags: plugins, wordpress, post, gallery, excerpt, images
+Tags: WordPress,Post,plugin,posts,images,image,gallery,excerpt
 Requires at least: 3.1
 Tested up to: 3.2
 Stable tag: trunk
