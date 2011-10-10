@@ -6,6 +6,7 @@ Description: Replace excerpt for gallery with a row of thumbnails from post
 Author: Dirty Suds
 Version: 1.00
 Author URI: http://dirtysuds.com
+License: GPL2
 
 Updates:
 1.00 - First Version
