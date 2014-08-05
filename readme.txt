@@ -3,7 +3,7 @@ Contributors: pathawks,dirtysuds
 Donate link: https://github.com/pathawks/gallery-excerpt
 Tags: WordPress,Post,plugin,posts,images,image,gallery,excerpt
 Requires at least: 3.1
-Tested up to: 3.2
+Tested up to: 3.9.1
 Stable tag: trunk
 
 Replace the excerpt for posts with the post type 'Gallery' to a row of images from the post.
