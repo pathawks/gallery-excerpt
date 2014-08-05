@@ -1,6 +1,6 @@
 === Gallery Excerpt ===
-
-Contributors: dirtysuds,pathawks
+Contributors: pathawks,dirtysuds
+Donate link: https://github.com/pathawks/gallery-excerpt
 Tags: WordPress,Post,plugin,posts,images,image,gallery,excerpt
 Requires at least: 3.1
 Tested up to: 3.2
