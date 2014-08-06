@@ -5,7 +5,8 @@ Plugin URI: https://github.com/pathawks/gallery-excerpt
 Description: Replace excerpt for gallery with a row of thumbnails from post
 Author: Pat Hawks
 Author URI: http://pathawks.com
-License: GPL2
+License: GPLv2
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Version: 1.00
 
   Copyright 2014 Pat Hawks  (email : pat@pathawks.com)
